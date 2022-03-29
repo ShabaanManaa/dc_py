@@ -10,7 +10,7 @@ lat = 32.17222
 lon =  13.02028
 
 # Set time period
-start = datetime(1980, 1, 1)
+start = datetime(2000, 1, 1)
 end = datetime(2022, 3, 29)
 
 # Get closest weather station to Gharyan, BC
